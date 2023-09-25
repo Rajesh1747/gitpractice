@@ -1,0 +1,10 @@
+a=10 #this is first value 
+b=30 #this is second value 
+c=60 #this is third value 
+#calculation 
+d=a+b*c
+#result 
+print("result",d)
+
+print("welcom to python")
+
